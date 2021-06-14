@@ -10,7 +10,14 @@ namespace АбстрактнаяФабрика
     {
         static void Main(string[] args)
         {
+            AbstractCharectersFactory factory = new ElfFactory();
+            AbstractAirCharecter airCharecter = factory.CreateAirCharecter();
+            airCharecter.Fly();
 
+            factory = new UndeadFactory();
+            factory.CreateTerrestialCharecter().Run();
+
+            Console.ReadKey();
         }
     }
 }

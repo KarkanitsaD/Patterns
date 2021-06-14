@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E0626691-8D56-4E79-960E-ACB0B462B86C}</ProjectGuid>
+    <ProjectGuid>{F674DC4E-9D4B-46C4-964B-C34F1B85A521}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>АбстрактнаяФабрика</RootNamespace>
-    <AssemblyName>АбстрактнаяФабрика</AssemblyName>
+    <RootNamespace>Прототип</RootNamespace>
+    <AssemblyName>Прототип</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,18 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AbstractAirCharecter.cs" />
-    <Compile Include="AbstractCharectersFactory.cs" />
-    <Compile Include="AbstractTerrestialCharecter.cs" />
-    <Compile Include="AirElf.cs" />
-    <Compile Include="AirGoblin.cs" />
-    <Compile Include="Client.cs" />
-    <Compile Include="ElfFactory.cs" />
+    <Compile Include="Circle.cs" />
+    <Compile Include="IFigure.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TerrestialElf.cs" />
-    <Compile Include="TerrestialGoblin.cs" />
-    <Compile Include="UndeadFactory.cs" />
+    <Compile Include="Rectangle.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

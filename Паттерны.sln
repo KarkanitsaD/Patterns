@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ФабричныйМето�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "АбстрактнаяФабрика", "АбстрактнаяФабрика\АбстрактнаяФабрика.csproj", "{E0626691-8D56-4E79-960E-ACB0B462B86C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Прототип", "Прототип\Прототип.csproj", "{F674DC4E-9D4B-46C4-964B-C34F1B85A521}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Строитель", "Строитель\Строитель.csproj", "{39D68D1E-F5D8-4BBD-9234-EE8FB5F8BEA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{E0626691-8D56-4E79-960E-ACB0B462B86C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0626691-8D56-4E79-960E-ACB0B462B86C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0626691-8D56-4E79-960E-ACB0B462B86C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F674DC4E-9D4B-46C4-964B-C34F1B85A521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F674DC4E-9D4B-46C4-964B-C34F1B85A521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F674DC4E-9D4B-46C4-964B-C34F1B85A521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F674DC4E-9D4B-46C4-964B-C34F1B85A521}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39D68D1E-F5D8-4BBD-9234-EE8FB5F8BEA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39D68D1E-F5D8-4BBD-9234-EE8FB5F8BEA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39D68D1E-F5D8-4BBD-9234-EE8FB5F8BEA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39D68D1E-F5D8-4BBD-9234-EE8FB5F8BEA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
