@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ФабричныйМетод", "ФабричныйМетод\ФабричныйМетод.csproj", "{CC4820E7-3F0D-47B2-B389-DBB981E81AC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "АбстрактнаяФабрика", "АбстрактнаяФабрика\АбстрактнаяФабрика.csproj", "{E0626691-8D56-4E79-960E-ACB0B462B86C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC4820E7-3F0D-47B2-B389-DBB981E81AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC4820E7-3F0D-47B2-B389-DBB981E81AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC4820E7-3F0D-47B2-B389-DBB981E81AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC4820E7-3F0D-47B2-B389-DBB981E81AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0626691-8D56-4E79-960E-ACB0B462B86C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0626691-8D56-4E79-960E-ACB0B462B86C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0626691-8D56-4E79-960E-ACB0B462B86C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0626691-8D56-4E79-960E-ACB0B462B86C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10072986-EF05-4A59-98E3-3A91959EBE58}
+	EndGlobalSection
+EndGlobal
