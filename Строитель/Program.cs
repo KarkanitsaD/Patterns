@@ -10,6 +10,13 @@ namespace Строитель
     {
         static void Main(string[] args)
         {
+            IAddressBuilder addressBuilder = new BelarussianAddressBuilder();
+            AddressDirector addressDirector = new AddressDirector(addressBuilder);
+            addressDirector.BuldMinimalValueProduct("Grodno", "Belye Rosy", "45");
+
+            var address = addressBuilder.GetAddress();
+
+            Console.WriteLine();
         }
     }
 }
