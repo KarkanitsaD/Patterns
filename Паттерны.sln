@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Стратегия", "Ст�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Наблюдатель", "Наблюдатель\Наблюдатель.csproj", "{684CDDEB-AA9C-41EE-B737-661A91714D9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Команда", "Комманда\Команда.csproj", "{D0BB0ED5-1A46-4C37-AD95-92198DDA74CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ШаблонныйМетод", "ШаблонныйМетод\ШаблонныйМетод.csproj", "{C31CB70F-7A9F-484E-AE2D-38F785AEBEF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{684CDDEB-AA9C-41EE-B737-661A91714D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{684CDDEB-AA9C-41EE-B737-661A91714D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{684CDDEB-AA9C-41EE-B737-661A91714D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0BB0ED5-1A46-4C37-AD95-92198DDA74CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0BB0ED5-1A46-4C37-AD95-92198DDA74CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0BB0ED5-1A46-4C37-AD95-92198DDA74CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0BB0ED5-1A46-4C37-AD95-92198DDA74CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C31CB70F-7A9F-484E-AE2D-38F785AEBEF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C31CB70F-7A9F-484E-AE2D-38F785AEBEF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C31CB70F-7A9F-484E-AE2D-38F785AEBEF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C31CB70F-7A9F-484E-AE2D-38F785AEBEF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
