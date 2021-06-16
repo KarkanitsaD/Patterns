@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Строитель", "Ст�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Стратегия", "Стратегия\Стратегия.csproj", "{6735EF4F-B156-4C88-B414-F651ACCDC2EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Наблюдатель", "Наблюдатель\Наблюдатель.csproj", "{684CDDEB-AA9C-41EE-B737-661A91714D9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6735EF4F-B156-4C88-B414-F651ACCDC2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6735EF4F-B156-4C88-B414-F651ACCDC2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6735EF4F-B156-4C88-B414-F651ACCDC2EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{684CDDEB-AA9C-41EE-B737-661A91714D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{684CDDEB-AA9C-41EE-B737-661A91714D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{684CDDEB-AA9C-41EE-B737-661A91714D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{684CDDEB-AA9C-41EE-B737-661A91714D9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
