@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Медиатор", "Мед�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Хранитель", "Хранитель\Хранитель.csproj", "{5FB84727-8B35-4FE8-90F2-ECD437DF8686}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Посетитель", "Посетитель\Посетитель.csproj", "{320922AC-A590-48A8-83B5-2B6EDC246502}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{5FB84727-8B35-4FE8-90F2-ECD437DF8686}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FB84727-8B35-4FE8-90F2-ECD437DF8686}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FB84727-8B35-4FE8-90F2-ECD437DF8686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{320922AC-A590-48A8-83B5-2B6EDC246502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{320922AC-A590-48A8-83B5-2B6EDC246502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{320922AC-A590-48A8-83B5-2B6EDC246502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{320922AC-A590-48A8-83B5-2B6EDC246502}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
