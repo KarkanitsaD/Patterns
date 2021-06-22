@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Посетитель", "П�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Декоратор", "Декоратор\Декоратор.csproj", "{B206E789-54F9-4799-AE68-A954D29DC0BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Адаптер", "Адаптер\Адаптер.csproj", "{029A18C5-429E-4D06-9B30-649D13B1A6F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{B206E789-54F9-4799-AE68-A954D29DC0BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B206E789-54F9-4799-AE68-A954D29DC0BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B206E789-54F9-4799-AE68-A954D29DC0BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{029A18C5-429E-4D06-9B30-649D13B1A6F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029A18C5-429E-4D06-9B30-649D13B1A6F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029A18C5-429E-4D06-9B30-649D13B1A6F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029A18C5-429E-4D06-9B30-649D13B1A6F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
